@@ -1,0 +1,7 @@
+torch>=1.0.0
+numpy>=1.26.4
+spacy
+torchtext
+tqdm
+evaluate
+wandb>=0.17.0
